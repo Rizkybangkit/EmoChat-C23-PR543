@@ -1,0 +1,3 @@
+[submodule "nestjs-chatApp"]
+	path = nestjs-chatApp
+	url = git@github.com:peii14/nestjs-chatApp.git
