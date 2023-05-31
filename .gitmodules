@@ -4,3 +4,6 @@
 [submodule "CapstoneProject-MD"]
 	path = CapstoneProject-MD
 	url = https://github.com/satria-ui/CapstoneProject-MD
+[submodule "voice-emotion-detection-api"]
+	path = voice-emotion-detection-api
+	url = https://github.com/annisaulfa11/voice-emotion-detection-api.git
