@@ -16,11 +16,11 @@ Adam Satria Adidarma          |A038DSX1050  | Mobile Development
 ## Prototype
 You can see it [here](https://www.figma.com/file/ECgjwXBidQLhhPV9t0OoTU/Bangkit-Capstone?type=design&node-id=0%3A1&t=ECje7C8rLo6su2AU-1).
 ## How to use our app
-You can install the APK to your phone by downloading it from [here]().
+You can install the APK to your phone by downloading it from [here](https://drive.google.com/file/d/1HLUF6oumxzDhzRc648AAJoDn5CDls5-7/view?usp=sharing).
 ## Deploying to GCP
 For documentation on deploying to GCP, check these
 * [Deploy machine learning model](https://github.com/Rizkybangkit/EmoChat-C23-PR543/blob/Cloud-Computing/README.md)
-* [Deploy backend]()
+* [Deploy backend](https://github.com/peii14/nestjs-chatApp/blob/043ede21901797e4658090d82b92ca6a0f6af5ba/README.md)
 ## API Documentation
 You can check the API documentation [here](http://34.124.161.0:3000/api/).
 
