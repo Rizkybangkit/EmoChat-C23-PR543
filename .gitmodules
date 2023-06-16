@@ -5,3 +5,6 @@
 	path = nestjs-chatApp
 	url = git@github.com:peii14/nestjs-chatApp.git
 
+[submodule "EmoChat-ML"]
+	path = EmoChat-ML
+	url = https://github.com/shafaelysia/EmoChat-ML.git
