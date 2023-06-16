@@ -4,7 +4,7 @@ GCP services used:
 * Cloud Storage
 * Pubsub
 ## GCP architecture
-![GCP architecture](https://github.com/Rizkybangkit/EmoChat-C23-PR543/assets/91662109/733f108b-ec0b-4e7f-badf-76cd0b66a027)
+![Untitled-2023-06-16-1144](https://github.com/Rizkybangkit/EmoChat-C23-PR543/assets/91662109/9ea0554e-959c-42ab-9c2c-530f8782785f)
 ## Steps
 1. Make bucket
 ```
