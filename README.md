@@ -20,7 +20,7 @@ You can install the APK to your phone by downloading it from [here]().
 ## Deploying to GCP
 For documentation on deploying to GCP, check these
 * [Deploy machine learning model](https://github.com/Rizkybangkit/EmoChat-C23-PR543/blob/Cloud-Computing/README.md)
-* [Deploy backend](https://github.com/peii14/nestjs-chatApp/tree/043ede21901797e4658090d82b92ca6a0f6af5ba#readme).
+* [Deploy backend]()
 ## API Documentation
 You can check the API documentation [here](http://34.124.161.0:3000/api/).
 
