@@ -1,6 +1,7 @@
-[submodule "nestjs-chatApp"]
-	path = nestjs-chatApp
-	url = git@github.com:peii14/nestjs-chatApp.git
 [submodule "CapstoneProject-MD"]
 	path = CapstoneProject-MD
 	url = https://github.com/satria-ui/CapstoneProject-MD
+[submodule "nestjs-chatApp"]
+	path = nestjs-chatApp
+	url = git@github.com:peii14/nestjs-chatApp.git
+
